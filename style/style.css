@@ -261,7 +261,7 @@ header {
     padding: 1px 10px;
     flex-direction: row;
     flex-wrap: wrap;
-    width: 112%;
+    width: 100%;
     .logo {
       width: 21em;
       justify-content: center;
@@ -280,7 +280,7 @@ header {
   }
   .home {
     height: 70vh;
-    width: 112%;
+    width: 100%;
     .main {
       width: 95%;
       height: 100%;
@@ -306,7 +306,7 @@ header {
 
 @media (max-width: 424px) {
   header {
-    width: 150%;
+    width: 100%;
     height: 40vh;
     padding: 0px;
     flex-direction: row;
@@ -315,7 +315,7 @@ header {
   }
   .home {
     height: 70vh;
-    width: 150%;
+    width: 100%;
     .main {
       width: 95%;
       height: 100%;
